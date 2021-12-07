@@ -7,3 +7,33 @@
    font-family:'Georgia';
    
  }
+
+ .border {
+   
+   padding: 75px;
+   
+ }
+
+ .dropdown-item {
+  text-align: right;
+
+
+ }
+ .container {
+  height: 800px;
+  padding-top: 20px;
+  background: #cdcdcd;
+}
+
+.display-4{
+  font-size:50px;
+  color: #4aaaa5;
+  position:center;
+  font-family:'Georgia';
+
+}
+
+#initial-image {
+  height: 400px;
+
+}
